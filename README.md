@@ -20,9 +20,15 @@
 </div>
 
 <h3 align="center">My stats 📊</h3>
+
+<h1 align="center">
+    
 [![](https://raw.githubusercontent.com/asapHallvaror/asapHallvaror/master/profile-summary-card-output/ayu_mirage/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/asapHallvaror/asapHallvaror/master/profile-summary-card-output/ayu_mirage/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/asapHallvaror/asapHallvaror/master/profile-summary-card-output/ayu_mirage/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/asapHallvaror/asapHallvaror/master/profile-summary-card-output/ayu_mirage/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/asapHallvaror/asapHallvaror/master/profile-summary-card-output/ayu_mirage/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+</h1>
+
 
 
 
