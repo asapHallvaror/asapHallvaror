@@ -1,8 +1,9 @@
 
 
 <h1 align="center">
-    <img src="![My-YE-cover](https://github.com/asapHallvaror/asapHallvaror/assets/128053015/055fc334-05f9-4297-be46-d53d595bfcda)"/>
+    <img src="https://github.com/asapHallvaror/asapHallvaror/assets/128053015/055fc334-05f9-4297-be46-d53d595bfcda"/>
 </h1>
+
 
 
 <h3 align="center">A student from Chile</h3>
