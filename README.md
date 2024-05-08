@@ -10,13 +10,13 @@
 
 <div align="center">
  
- 🔭 I’m currently studying on **Duocuc**
+ 🔭 I’m currently studying on **Duocuc**.
  
- 🧠 I’m currently learning **React and JavaScript**
+ 🧠 I’m currently learning **React and JavaScript.**
 
-💬 Ask me about **Python, Ionic, JavaScript or anything [here]()**
+💬 Ask me about **Python, Ionic, JavaScript or anything, sent me a mail!**
 
-🎯 Motivations: **I want to improve my skills and ........**
+🎯 Motivations: **I want to improve my skills and my soft skills.**
 
 </div>
 
@@ -31,7 +31,7 @@
 
 
 
-<h2 align="center">⚒️ Languages and Frameworks ⚒️</h2>
+<h2 align="center">Languages and Frameworks 👨‍💻</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,git" />
