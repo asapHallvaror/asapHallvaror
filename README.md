@@ -20,13 +20,13 @@
 
 </div>
 
-<h3 align="center">My stats 📊</h3>
+<h3 style="align-self: center;">My stats 📊</h3>
 
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asaphallvaror&show_icons=true&locale=en&layout=compact" alt="asaphallvaror" /></p>
+<p style="align-self: center;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asaphallvaror&show_icons=true&locale=en&layout=compact" alt="asaphallvaror" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asaphallvaror&show_icons=true&locale=en" alt="asaphallvaror" /></p>
+<p style="align-self: center;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asaphallvaror&show_icons=true&locale=en" alt="asaphallvaror" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asaphallvaror&" alt="asaphallvaror" /></p>
+<p style="align-self: center;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asaphallvaror&" alt="asaphallvaror" /></p>
 
 
 
