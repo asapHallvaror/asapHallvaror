@@ -14,7 +14,7 @@
  
  🧠 I’m currently learning **React and JavaScript.**
 
-💬 Ask me about **Python, Ionic, JavaScript or anything, sent me a mail!**
+💬 Ask me about **Python, Ionic, JavaScript or anything, send me a mail!**
 
 🎯 Motivations: **I want to improve my skills and my soft skills.**
 
