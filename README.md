@@ -21,7 +21,7 @@
 
 <div align="center">
 
-# 📊 GitHub Stats
+# My GitHub summary
 
 [![Stats](https://github-stats-alpha.vercel.app/api/?username=asapHallvaror&cc=fff&tc=DF7431&ic=DF7431 "Stats")](https://github.com/yashu1wwww "Stats")
 </br> 
