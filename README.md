@@ -21,7 +21,7 @@
 
 <div align="center">
 
-# My GitHub summary
+<h3>My github summary 📊</h3>
 
 [![Stats](https://github-stats-alpha.vercel.app/api/?username=asapHallvaror&cc=fff&tc=DF7431&ic=DF7431 "Stats")](https://github.com/yashu1wwww "Stats")
 </br> 
