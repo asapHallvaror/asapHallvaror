@@ -19,15 +19,14 @@
 
 </div>
 
-<div align="center">
 <h3>My stats 📊</h3>
 
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asaphallvaror&show_icons=true&locale=en&layout=compact" alt="asaphallvaror" /></p> </br>
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asaphallvaror&show_icons=true&locale=en&layout=compact" alt="asaphallvaror" /></p> 
 
-<p align="center"">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asaphallvaror&show_icons=true&locale=en" alt="asaphallvaror" /></p></br>
+<p align="center"">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asaphallvaror&show_icons=true&locale=en" alt="asaphallvaror" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asaphallvaror&" alt="asaphallvaror" /></p>
-</div>
+
     
 
 
