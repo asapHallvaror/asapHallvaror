@@ -9,7 +9,7 @@
 
 <div align="center">
  
- 🔭 I’m currently studying on <a href="https://www.duoc.cl/"> **Duocuc**</a>.
+ 🔭 I’m currently studying on <a href="https://www.duoc.cl/" target="blank"> **Duocuc**</a>.
  
  🧠 I’m currently learning **React and JavaScript.**
 
