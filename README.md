@@ -23,7 +23,7 @@
 
 <h3>My github summary 📊</h3>
 
-[![Stats](https://github-stats-alpha.vercel.app/api/?username=asapHallvaror&cc=fff&tc=DF7431&ic=DF7431 "Stats")](https://github.com/yashu1wwww "Stats")
+[![Stats](https://github-stats-alpha.vercel.app/api/?username=asapHallvaror&cc=fff&tc=DF7431&ic=DF7431 "Stats")](https://github.com/asapHallvaror "Stats")
 </br> 
 <p align="center">  
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=asapHallvaror&theme=vue" />
