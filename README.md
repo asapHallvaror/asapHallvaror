@@ -19,7 +19,7 @@
 
 </div>
 
-<h3>My stats 📊</h3>
+<h3 align="center">My stats 📊</h3>
 
 <p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asaphallvaror&show_icons=true&locale=en&layout=compact" alt="asaphallvaror" /></p> 
 
@@ -27,6 +27,13 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asaphallvaror&" alt="asaphallvaror" /></p>
 
+<h3 align="center" style='margin: 32px 4px 8px; font-size: 50px;'>
+  
+<𝙂𝙧𝙖𝙥𝙝📈>
+  
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asapHallvaror&theme=vue"/>
+</p>
     
 
 
