@@ -19,17 +19,25 @@
 
 </div>
 
-<h3 align="center">My stats 📊</h3>
+<div align="center">
 
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asaphallvaror&show_icons=true&locale=en&layout=compact" alt="asaphallvaror" /></p> 
+# 📊 GitHub Stats
 
-<p align="center"">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asaphallvaror&show_icons=true&locale=en" alt="asaphallvaror" /></p>
+[![Stats](https://github-stats-alpha.vercel.app/api/?username=asapHallvaror&cc=fff&tc=DF7431&ic=DF7431 "Stats")](https://github.com/yashu1wwww "Stats")
+</br> 
+<p align="center">  
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=asapHallvaror&theme=vue" />
+</p>
+</br> 
+   
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=asapHallvaror&show_icons=true&locale=en&layout=compact" alt="asapHallvaror" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asaphallvaror&" alt="asaphallvaror" /></p>
+</div>
+
 
 <h3 align="center" style='margin: 32px 4px 8px; font-size: 50px;'>
   
-<𝙂𝙧𝙖𝙥𝙝📈>
+𝙂𝙧𝙖𝙥𝙝📈
   
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asapHallvaror&theme=vue"/>
