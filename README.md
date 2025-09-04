@@ -11,11 +11,13 @@
  
  🔭 I’m currently studying on <a href="https://www.duoc.cl/" target="_blank"> **Duocuc**</a>.
  
- 🧠 I’m currently learning **React and JavaScript.**
+ 🧠 I’m currently learning **NextJS and PostgreSQL.**
 
 💬 Ask me about **Python, Ionic, JavaScript or anything, send me a mail!**
 
 🎯 Motivations: **I want to improve my skills and my soft skills.**
+
+
 
 </div>
 
@@ -31,6 +33,17 @@
 </br> 
    
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=asapHallvaror&show_icons=true&locale=en&layout=compact" alt="asapHallvaror" /></p>
+
+<h2 align="center">My Personal Stack 💻</h2>
+<br/>
+<div align="center">
+  
+  **My favorite IDE is Windsurf.**
+  
+  **My favorite web framework is React.**
+
+  **My favorite database is MySQL.**
+
 
 </div>
 
